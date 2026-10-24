@@ -1,0 +1,28 @@
+========================================================================
+JAK URUCHOMIĆ WŁASNĄ POLITYKĘ W GITHUB PAGES (Zajmuje to 1 minutę):
+========================================================================
+
+Adres Twojej nowej polityki będzie brzmiał:
+👉 https://seba7802.github.io/zywienie-dziecka/
+
+KROKI (Wszystko w przeglądarce, bez instalowania czegokolwiek):
+1. Zaloguj się na swoje konto na https://github.com
+2. Kliknij "+" w prawym górnym rogu -> "New repository"
+   - Repository name: zywienie-dziecka
+   - Ustaw jako: Public (Publiczne)
+   - Zaznacz: "Add a README file" (lub zostaw puste)
+   - Kliknij zielony przycisk "Create repository"
+3. Na stronie nowo utworzonego repozytorium:
+   - Kliknij "Add file" -> "Upload files"
+   - Przeciągnij plik "index.html" z tego folderu
+   - Kliknij zielony przycisk "Commit changes"
+4. Włącz GitHub Pages (darmowy hosting):
+   - W repozytorium kliknij zakładkę "Settings" (na górze po prawej)
+   - W lewym menu kliknij "Pages"
+   - W sekcji "Build and deployment" -> "Branch": wybierz "main" (oraz folder "/ (root)")
+   - Kliknij "Save"
+
+GOTOWE! 🎉 
+GitHub w ciągu ok. 60 sekund opublikuje Twoją stronę pod oficjalnym adresem:
+https://seba7802.github.io/zywienie-dziecka/
+========================================================================
